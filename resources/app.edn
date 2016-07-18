@@ -1,0 +1,4 @@
+{
+ :application-name  "xenia"
+ :todos [{:id 1 :name "test"}]
+ }
